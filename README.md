@@ -1,5 +1,5 @@
 # stateManager.js
-simple state manager
+simple state manager or sequential executer
 
 ////////////////////////////
 //  e x a m p l e . . . ////
